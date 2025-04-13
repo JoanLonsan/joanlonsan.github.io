@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Joan Crescenti</title>
+    <link>https://joanlonsan.github.io/tags/</link>
+    <description>Recent content in Tags on Joan Crescenti</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joanlonsan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://joanlonsan.github.io/tags/ai/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>https://joanlonsan.github.io/tags/data-science/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>https://joanlonsan.github.io/tags/fitness/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GUI</title>
+      <link>https://joanlonsan.github.io/tags/gui/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/gui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://joanlonsan.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://joanlonsan.github.io/tags/nlp/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas</title>
+      <link>https://joanlonsan.github.io/tags/pandas/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/pandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://joanlonsan.github.io/tags/python/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://joanlonsan.github.io/tags/recommender-systems/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speech Recognition</title>
+      <link>https://joanlonsan.github.io/tags/speech-recognition/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/speech-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tkinter</title>
+      <link>https://joanlonsan.github.io/tags/tkinter/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/tkinter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Voice Assistant</title>
+      <link>https://joanlonsan.github.io/tags/voice-assistant/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/voice-assistant/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

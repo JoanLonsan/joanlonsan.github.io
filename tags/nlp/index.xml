@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Joan Crescenti</title>
+    <link>https://joanlonsan.github.io/tags/nlp/</link>
+    <description>Recent content in NLP on Joan Crescenti</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joanlonsan.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Feedback Analyzer</title>
+      <link>https://joanlonsan.github.io/posts/customer-feedback-analyzer/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/posts/customer-feedback-analyzer/</guid>
+      <description>&lt;h2 id=&#34;-análisis-de-retroalimentación-de-clientes&#34;&gt;&#xD;&#xA;  🧾 Análisis de Retroalimentación de Clientes&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-an%c3%a1lisis-de-retroalimentaci%c3%b3n-de-clientes&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Este proyecto aplica técnicas de procesamiento de lenguaje natural (NLP) para analizar comentarios de clientes.&lt;br&gt;&#xA;Utiliza modelos de clasificación de sentimientos y visualizaciones para detectar áreas de mejora en productos y servicios.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tecnologías-utilizadas&#34;&gt;&#xD;&#xA;  🧠 Tecnologías utilizadas:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-tecnolog%c3%adas-utilizadas&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;NLTK / spaCy&lt;/li&gt;&#xA;&lt;li&gt;WordCloud&lt;/li&gt;&#xA;&lt;li&gt;Scikit-learn&lt;/li&gt;&#xA;&lt;li&gt;Matplotlib&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://github.com/JoanLonsan/Customer-Feedback-Analyzer&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-english-version&#34;&gt;&#xD;&#xA;  🇬🇧 English Version&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-english-version&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This project applies Natural Language Processing (NLP) techniques to analyze customer feedback.&lt;br&gt;&#xA;It uses sentiment classification models and visualizations to identify improvement areas in products and services.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

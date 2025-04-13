@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Joan Crescenti</title>
+    <link>https://joanlonsan.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Joan Crescenti</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joanlonsan.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://joanlonsan.github.io/posts/movie-recommendation-system/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/posts/movie-recommendation-system/</guid>
+      <description>&lt;h2 id=&#34;-sistema-de-recomendación-de-películas&#34;&gt;&#xD;&#xA;  🧾 Sistema de Recomendación de Películas&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-sistema-de-recomendaci%c3%b3n-de-pel%c3%adculas&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Un sistema de recomendación basado en filtrado colaborativo y similitud de contenido que sugiere películas personalizados al usuario.&lt;br&gt;&#xA;Trabaja con datasets reales y muestra la calidad de las recomendaciones mediante visualizaciones.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-características&#34;&gt;&#xD;&#xA;  📦 Características:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-caracter%c3%adsticas&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Filtrado colaborativo&lt;/li&gt;&#xA;&lt;li&gt;TF-IDF y similitud coseno&lt;/li&gt;&#xA;&lt;li&gt;Preprocesamiento de datos&lt;/li&gt;&#xA;&lt;li&gt;Visualización con Matplotlib&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://github.com/JoanLonsan/Movie-Recommender&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

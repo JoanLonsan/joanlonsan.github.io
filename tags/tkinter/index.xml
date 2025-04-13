@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tkinter on Joan Crescenti</title>
+    <link>https://joanlonsan.github.io/tags/tkinter/</link>
+    <description>Recent content in Tkinter on Joan Crescenti</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joanlonsan.github.io/tags/tkinter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Fitness Tracker</title>
+      <link>https://joanlonsan.github.io/posts/personal-fitness-tracker/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/posts/personal-fitness-tracker/</guid>
+      <description>&lt;h2 id=&#34;-seguimiento-personal-de-actividad-física&#34;&gt;&#xD;&#xA;  🧾 Seguimiento Personal de Actividad Física&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-seguimiento-personal-de-actividad-f%c3%adsica&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Una aplicación de escritorio desarrollada con Tkinter que permite a los usuarios llevar un control de sus actividades físicas y objetivos de salud.&lt;br&gt;&#xA;Permite registrar rutinas, calcular calorías y visualizar progreso en una interfaz amigable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-características&#34;&gt;&#xD;&#xA;  🏋️ Características:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-caracter%c3%adsticas&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GUI desarrollada con Tkinter&lt;/li&gt;&#xA;&lt;li&gt;Registro de ejercicios, duración y calorías&lt;/li&gt;&#xA;&lt;li&gt;Guardado local con persistencia de datos&lt;/li&gt;&#xA;&lt;li&gt;Visualización del progreso&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://github.com/JoanLonsan/Personal-Fitness-Tracker&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ver en GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
