@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joanlonsan.github.io/categories/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/categories/data-science/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/posts/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/tags/pytorch/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/tags/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/tags/time-series/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joanlonsan.github.io/posts/traffic_volume_predictor/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joanlonsan.github.io/tags/ai/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,12 +47,6 @@
     <loc>https://joanlonsan.github.io/tags/gui/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joanlonsan.github.io/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joanlonsan.github.io/tags/machine-learning/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://joanlonsan.github.io/posts/movie-recommendation-system/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,9 +59,6 @@
     <loc>https://joanlonsan.github.io/posts/personal-fitness-tracker/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joanlonsan.github.io/posts/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://joanlonsan.github.io/tags/python/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,9 +68,6 @@
     <loc>https://joanlonsan.github.io/tags/speech-recognition/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joanlonsan.github.io/tags/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://joanlonsan.github.io/tags/tkinter/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,7 +75,5 @@
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joanlonsan.github.io/about/</loc>
-  </url><url>
-    <loc>https://joanlonsan.github.io/categories/</loc>
   </url>
 </urlset>

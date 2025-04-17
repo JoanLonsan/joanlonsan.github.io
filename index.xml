@@ -6,8 +6,15 @@
     <description>Recent content on Joan Crescenti</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://joanlonsan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traffic Volume Predictor</title>
+      <link>https://joanlonsan.github.io/posts/traffic_volume_predictor/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/posts/traffic_volume_predictor/</guid>
+      <description>Predicción de volumen de tráfico utilizando LSTM y datos históricos con PyTorch.</description>
+    </item>
     <item>
       <title>AI Assistant</title>
       <link>https://joanlonsan.github.io/posts/ai-assistant/</link>

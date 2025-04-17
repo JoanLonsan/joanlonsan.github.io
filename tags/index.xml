@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Joan Crescenti</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://joanlonsan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://joanlonsan.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pytorch</title>
+      <link>https://joanlonsan.github.io/tags/pytorch/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Series</title>
+      <link>https://joanlonsan.github.io/tags/time-series/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joanlonsan.github.io/tags/time-series/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://joanlonsan.github.io/tags/ai/</link>
@@ -34,13 +55,6 @@
       <link>https://joanlonsan.github.io/tags/gui/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://joanlonsan.github.io/tags/gui/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://joanlonsan.github.io/tags/machine-learning/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joanlonsan.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>

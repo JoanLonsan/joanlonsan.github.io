@@ -2,16 +2,16 @@
 <html lang="es">
 <head>
   
-    <title>Machine-Learning :: Joan Crescenti</title>
+    <title>Traffic Volume Predictor :: Joan Crescenti</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="" />
+<meta name="description" content="Predicción de volumen de tráfico utilizando LSTM y datos históricos con PyTorch." />
 <meta name="keywords" content="data science, machine learning, portafolio" />
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="https://joanlonsan.github.io/tags/machine-learning/" />
+<link rel="canonical" href="https://joanlonsan.github.io/posts/traffic_volume_predictor/" />
 
 
 
@@ -71,10 +71,10 @@
 
 
 <meta property="og:locale" content="es" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Machine-Learning">
-<meta property="og:description" content="" />
-<meta property="og:url" content="https://joanlonsan.github.io/tags/machine-learning/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Traffic Volume Predictor">
+<meta property="og:description" content="Predicción de volumen de tráfico utilizando LSTM y datos históricos con PyTorch." />
+<meta property="og:url" content="https://joanlonsan.github.io/posts/traffic_volume_predictor/" />
 <meta property="og:site_name" content="Joan Crescenti" />
 
   <meta property="og:image" content="https://joanlonsan.github.io/og-image.png">
@@ -82,11 +82,13 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
 
+  <meta property="article:section" content="data-science" />
+
+
+  <meta property="article:published_time" content="2025-04-17 00:00:00 &#43;0000 UTC" />
 
 
 
-
-  <link href="/tags/machine-learning/index.xml" rel="alternate" type="application/rss+xml" title="Joan Crescenti" />
 
 
 
@@ -157,104 +159,62 @@
 
   <div class="content">
     
-  <h1>Posts for: #Machine-Learning</h1>
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://joanlonsan.github.io/posts/traffic_volume_predictor/">Traffic Volume Predictor</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">17 abr. 2025</time></div>
+
   
-  <div class="posts">
-    
-      <article class="post on-list">
-        <h1 class="post-title">
-          <a href="https://joanlonsan.github.io/posts/traffic_volume_predictor/">Traffic Volume Predictor</a>
-        </h1>
-        <div class="post-meta"><time class="post-date">2025-04-17</time></div>
-
-        
-          <span class="post-tags">
-            
-            #<a href="https://joanlonsan.github.io/tags/machine-learning/">machine-learning</a>&nbsp;
-            
-            #<a href="https://joanlonsan.github.io/tags/pytorch/">pytorch</a>&nbsp;
-            
-            #<a href="https://joanlonsan.github.io/tags/time-series/">time-series</a>&nbsp;
-            
-          </span>
-        
-
-        
+    <span class="post-tags">
+      
+      #<a href="https://joanlonsan.github.io/tags/machine-learning/">machine-learning</a>&nbsp;
+      
+      #<a href="https://joanlonsan.github.io/tags/pytorch/">pytorch</a>&nbsp;
+      
+      #<a href="https://joanlonsan.github.io/tags/time-series/">time-series</a>&nbsp;
+      
+    </span>
+  
+  
 
 
-        <div class="post-content">
-          
-            Predicción de volumen de tráfico utilizando LSTM y datos históricos con PyTorch.
-          
-        </div>
+  
 
-        
-          <div>
-            <a class="read-more button inline" href="/posts/traffic_volume_predictor/">[]</a>
-          </div>
-        
-      </article>
-    
-      <article class="post on-list">
-        <h1 class="post-title">
-          <a href="https://joanlonsan.github.io/posts/movie-recommendation-system/">Movie Recommendation System</a>
-        </h1>
-        <div class="post-meta"><time class="post-date">2025-04-13</time></div>
-
-        
-          <span class="post-tags">
-            
-            #<a href="https://joanlonsan.github.io/tags/machine-learning/">Machine Learning</a>&nbsp;
-            
-            #<a href="https://joanlonsan.github.io/tags/recommender-systems/">Recommender Systems</a>&nbsp;
-            
-            #<a href="https://joanlonsan.github.io/tags/pandas/">Pandas</a>&nbsp;
-            
-            #<a href="https://joanlonsan.github.io/tags/python/">Python</a>&nbsp;
-            
-          </span>
-        
-
-        
-
-
-        <div class="post-content">
-          
-            <h2 id="-sistema-de-recomendación-de-películas">🧾 Sistema de Recomendación de Películas</h2>
-<p>Un sistema de recomendación basado en filtrado colaborativo y similitud de contenido que sugiere películas personalizados al usuario.<br>
-Trabaja con datasets reales y muestra la calidad de las recomendaciones mediante visualizaciones.</p>
-<h3 id="-características">📦 Características:</h3>
+  <div class="post-content"><div>
+        <h2 id="-descripción">🧠 Descripción<a href="#-descripción" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>Este proyecto construye un modelo de aprendizaje profundo para predecir el volumen de tráfico utilizando datos históricos.<br>
+Utilizando una arquitectura LSTM (Long Short-Term Memory) entrenada en datos secuenciales, el modelo aprende patrones temporales y genera predicciones sobre el flujo de tráfico futuro.</p>
+<p>El dataset utilizado proviene del <a href="https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume">UCI Machine Learning Repository</a>, pero el enfoque es completamente adaptable a cualquier ciudad — por ejemplo, Madrid, gracias a su portal de datos abiertos.</p>
+<h2 id="-tecnologías-utilizadas">⚙️ Tecnologías utilizadas<a href="#-tecnologías-utilizadas" class="hanchor" ariaLabel="Anchor">#</a> </h2>
 <ul>
-<li>Filtrado colaborativo</li>
-<li>TF-IDF y similitud coseno</li>
-<li>Preprocesamiento de datos</li>
-<li>Visualización con Matplotlib</li>
+<li>Python</li>
+<li>PyTorch</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Plotly</li>
+<li>Scikit-learn (para métricas)</li>
 </ul>
-<p>🔗 <a href="https://github.com/JoanLonsan/Movie-Recommender">Ver en GitHub</a></p>
-<hr>
-<h2 id="-english-version">🇬🇧 English Version</h2>
-<p>A recommendation system based on collaborative filtering and content similarity that suggests personalized movie titles.<br>
-It works with real datasets and visualizes recommendation quality.</p>
-          
-        </div>
+<h2 id="-resultados">📊 Resultados<a href="#-resultados" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li>El modelo logra un <strong>MSE ≈ 0.002</strong> sobre el conjunto de prueba.</li>
+<li>Gráficos interactivos comparan predicciones vs valores reales.</li>
+<li>Se demuestra cómo adaptar el pipeline a otras fuentes de datos locales como las del <a href="https://datos.madrid.es">Ayuntamiento de Madrid</a>.</li>
+</ul>
+<h2 id="-enlaces">🔗 Enlaces<a href="#-enlaces" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li><a href="https://github.com/JoanLonsan/Traffic-Volume-Predictor">Repositorio en GitHub</a></li>
+</ul>
 
-        
-          <div>
-            <a class="read-more button inline" href="/posts/movie-recommendation-system/">[]</a>
-          </div>
-        
-      </article>
+      </div></div>
+
+  
+
+  
     
 
-    <div class="pagination">
-  <div class="pagination__buttons">
-    
-    
-    
-  </div>
-</div>
-
-  </div>
+  
+</article>
 
   </div>
 
